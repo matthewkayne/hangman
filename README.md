@@ -1,5 +1,4 @@
-# Hangman
+# Games
 
-This is a basic hangman game
+This is a collection of simple games
 
-Run the "Hangman.py" file
