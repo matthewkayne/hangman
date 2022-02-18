@@ -1,1 +1,3 @@
-# Hangman
+# Games
+
+* Hangman
