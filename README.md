@@ -1,3 +1,1 @@
-# Simple Games
-
-- Hangman
+# Hangman
